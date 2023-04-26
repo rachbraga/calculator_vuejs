@@ -1,5 +1,5 @@
-# my-calculator
-
+## my-calculator
+# Enjoy the vue :D
 ## Project setup
 ```
 npm install
